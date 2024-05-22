@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @hassan-amoura
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning c# and .net to create a brand new 2D Game as a passion project
-- 💞️ I’m looking to collaborate on ... game development and design!
-- 📫 How to reach me ... hassanamoura1@gmail.com is the best way to reach me!
-- 😄 Pronouns: ... He/They
-- ⚡ Fun fact: ...
+**Hello!** 👋
+________________________________________________________________
+Come in and stay a while! My name is Hassan, I am a passionate and driven Automation Engineer with an acute attention to detail in the realm of software testing and automation. With a fervent dedication to quality and a robust skill set in programming languages and testing methodologies, including but not limited to Typescript, Java/Javascript, Playwright, and Selenium. I thrive in ensuring software excellence driven by a collaborative spirit that values teamwork and collective achievement.
 
-<!---
-hassan-amoura/hassan-amoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Frameworks!** 💻
+_________________________________________________________________
+- Frameworks: Playwright, Selenium and Appium
+- Primary Languages: Typescript, Javascript, Ruby on Rails
+- Secondary Languages: Python, Cucumber/Gherkin
+
+**What I Do / Who I Am!** 👓
+__________________________________________________________________
+- Individual Contributor: SDET /  Automation Engineer - Manual QA Engineer
+- Software Development: Knack for Frontend and Backend development with a heavy hand in Quality and Automation!
+- Quality Assurance: Skilled in devising comprehensive test strategies that encompass both manual and automated testing approaches, ensuring thorough coverage of functional and non-functional requirements.
+
