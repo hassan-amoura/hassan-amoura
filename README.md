@@ -5,12 +5,12 @@ Come in and stay a while! My name is Hassan, I am a passionate and driven Automa
 **Languages & Frameworks!** 💻
 _________________________________________________________________
 - Frameworks: Playwright, Selenium and Appium
-- Primary Languages: Typescript, Javascript, Ruby on Rails
+- Primary Languages: Typescript, Javascript, Ruby on Rails, Node.js
 - Secondary Languages: Python, Cucumber/Gherkin
 
 **What I Do / Who I Am!** 👓
 __________________________________________________________________
 - Individual Contributor: SDET /  Automation Engineer - Manual QA Engineer
-- Software Development: Knack for Frontend and Backend development with a heavy hand in Quality and Automation!
+- Software Development: 4 Years of Back-end development and 7 years of writing robust Test Automation Scripts!
 - Quality Assurance: Skilled in devising comprehensive test strategies that encompass both manual and automated testing approaches, ensuring thorough coverage of functional and non-functional requirements.
 
