@@ -6,7 +6,7 @@ Come in and stay a while! My name is Hassan, I am a passionate and driven Automa
 _________________________________________________________________
 - Frameworks: Playwright, Selenium and Appium
 - Primary Languages: Typescript, Javascript, Ruby on Rails, Node.js
-- Secondary Languages: Python, Cucumber/Gherkin
+- Secondary Languages: Python, Cucumber/Gherkin, C#
 
 **What I Do / Who I Am!** 👓
 __________________________________________________________________
