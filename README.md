@@ -1,4 +1,4 @@
-Hello! 👋
+**Hello! 👋**
 
 My name is Hassan, I’m a passionate and versatile Automation Engineer with a strong foundation in backend development, API design, and test automation. Over the years, I've had the privilege of wearing many hats working with small to medium-sized businesses — from backend development and API integration to test automation and even product management. My career has allowed me to build a well-rounded skill set, but my focus now lies in backend development and creating efficient test automation frameworks.
 
